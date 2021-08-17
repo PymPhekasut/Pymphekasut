@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm currently working job software develop environment.
-- 🌱 I’m learning Node.js, React.js, SAP UI5
+
 
 
 <!--
